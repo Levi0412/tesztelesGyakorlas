@@ -5,7 +5,6 @@ export function fuggvenyem3(n) {
     z = z + c;
     n = Math.floor(n / 10);
   }
-  console.log(z)
   return z;
 }
 
